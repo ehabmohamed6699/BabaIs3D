@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F760A2BA-655B-7551-593C-CEF57455ECDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meryel.CodeAssist.Editor", "Meryel.CodeAssist.Editor.csproj", "{FA8419C3-6B47-75F5-7369-145FC64048DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F760A2BA-655B-7551-593C-CEF57455ECDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F760A2BA-655B-7551-593C-CEF57455ECDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F760A2BA-655B-7551-593C-CEF57455ECDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F760A2BA-655B-7551-593C-CEF57455ECDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8419C3-6B47-75F5-7369-145FC64048DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8419C3-6B47-75F5-7369-145FC64048DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8419C3-6B47-75F5-7369-145FC64048DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8419C3-6B47-75F5-7369-145FC64048DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

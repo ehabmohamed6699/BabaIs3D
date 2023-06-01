@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StartWord-rock
+  - EndWord-push
+  - NotWord-rock
+  - NotWord-player
+  - IsWord-is
+  - Undefined
+  - EndWord-win
+  - NotWord-flag
+  - StartWord-flag
+  - NotWord-wall
+  - StartWord-wall
+  - EndWord-stop
+  - EndWord-you
+  - StartWord-player
+  - EndWord-defeat
+  - NotWord-sink
+  - EndWord-sink
+  - NotWord-water
+  - StartWord-water
+  - StartWord-lava
+  - NotWord-lava
+  - EndWord-melt
+  - EndWord-hot
+  - NotWord-skull
+  - StartWord-skull
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
